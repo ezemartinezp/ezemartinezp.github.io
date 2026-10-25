@@ -1,0 +1,17 @@
+{
+  "name": "Mi QR · Ezequiel Martínez",
+  "short_name": "Mi QR",
+  "start_url": "qr.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icono-qr.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
